@@ -1,0 +1,9 @@
+hllegada=20*(1/delta_t_minute);  
+hpartida=7*(1/delta_t_minute); 
+km_media=50;              
+SOCini=0.6;               
+Cllegada=2*(1/delta_t_minute);   
+Cpartida=2*(1/delta_t_minute);   
+Ckm=15;                   
+CSOC=0.1;               
+ro=0.92;

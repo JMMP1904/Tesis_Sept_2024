@@ -1,0 +1,48 @@
+1 Copy of grafica Etotal
+Check 2 Costos 
+Check 3 Datos_Autos
+Check 4 Demanda
+5 Escenarios PEV
+Check 6 Gen PV
+7 Grafica E total
+8 GraficaPDT
+9 GraficaporTrafo
+10 Grafica estrategias
+Check 11 Inivariables
+12 Limites Tarifas
+13 Montecarlo
+14 Montecarlo flujo
+15 optimización coordinada
+16 optimización coordinada 1 
+17 optimización coordinada trafos
+18 optimización coordinada trafo primario
+19 Pagos
+Check 20 Patrones Consumo
+Check 21 PEV agregadores
+22 Prueba Lb DATA
+23 Restricciones
+24 resultados DATA
+25 Resultados coord DATA
+Check 26 Tiempo y Ref 
+27 Trafos
+28 VarAdicTarifas
+
+
+
+
+
+
+
+
+Lunes 25 de Julio 15:30 
+Dr Reverendo Raul
+Clinica Cima
+
+
+
+
+
+
+Dra Celina 
+25 de Julio 
+Clinica Cima
